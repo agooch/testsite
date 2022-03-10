@@ -3,3 +3,6 @@ $blue-000: #4b9cd3;
 
 $link-color: $blue-000;
 $sidebar-color: $grey-lt-000;
+$code-background-color: $grey-lt-000 !default;
+$btn-primary-color: $blue-000 !default;
+$feedback-color: darken($sidebar-color, 2%) !default;
