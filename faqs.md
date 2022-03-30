@@ -17,7 +17,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
   
   Users are encouraged to explore the tool using our Demo UNC Dataverse (link to be included later), our tutorials, as well as this user guide. If you have further questions, please contact The Odum Institute Data Archive at (include email link). 
 </details>
-<br>
+<p></p>
 <details>
   <summary><strong>What is Dataverse?</strong></summary><br>
   
