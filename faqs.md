@@ -33,7 +33,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Dataverse vs. Dataset</strong></summary><br>
   
-  Insert image describing dataverse vs dataset with citation pointing to The Dataverse Project. 
+  ![Dataverse Container Image](/testsite/assets/containerimage.png) 
 </details>
 <p></p>
 <details>
