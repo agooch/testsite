@@ -33,7 +33,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Dataverse vs. Dataset</strong></summary><br>
   
-  ![Dataverse Container Image](/testsite/assets/containerimage.png) 
+  <img src="https://github.com/agooch/testsite/blob/1c96da724a2c21bc679e68dbf5ee93ce546a92a2/assets/images/containerimage.png" alt="image of dataverse collection that shows it can hold datasets as well as dataverse collections">
 </details>
 <p></p>
 <details>
