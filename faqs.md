@@ -33,7 +33,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Dataverse vs. Dataset</strong></summary><br>
   
-  <img src="images/containerimage.png" alt="dataverse collection can hold datasets and other dataverse collections" class="inline"/>
+  <img src="{{site.url}}/images/containerimage.png" style="display: block; margin: auto;" />
 </details>
 <p></p>
 <details>
