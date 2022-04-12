@@ -33,7 +33,9 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Dataverse vs. Dataset</strong></summary><br>
   
+  A Dataverse is a collection that can hold datasets as well as other dataverse collections. You can think of it as a container as depicted below. 
   <img src="https://agooch.github.io/testsite/assets/images/containerimage.png">
+  This permits users to organize their research in various ways. For examples of how you can organize your data within Dataverse, please see the Dataverse Organization Examples in the UNC Demo Dataverse. ADD LINK
 </details>
 <p></p>
 <details>
