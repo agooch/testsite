@@ -2,3 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 title: UNC Dataverse User Guide
 color_scheme: customstyle
 logo: "/assets/images/UNCDataverseLogo1.png"
+aux_links:
+  "Dataverse Project User Guide":
+    - "//guides.dataverse.org/en/5.3/user/"
