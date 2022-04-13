@@ -95,3 +95,11 @@ Enter text here
 ## Publish Data
 
 Enter text here
+
+## Delete Draft Dataset
+
+Enter text here
+
+## Deaccession Published Dataset/Dataverse
+
+Enter text here (Contact Odum Archive)
