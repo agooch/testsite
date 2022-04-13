@@ -1,5 +1,5 @@
 ---
-title: Searching & Exploring Dataverse
+title: Exploring Dataverse
 parent: Getting Started
 nav_order: 2
 ---
@@ -10,7 +10,23 @@ nav_order: 2
   textColor: '#fff'
 })</script>
 
-# Searching & Exploring Dataverse
+# Exploring Dataverse
+
+## Searching Dataverse
+
+Insert GIF of search features?
+
+<details>
+  <summary><strong>Basic Search</strong></summary><br>
+  Descriptive text about this section of your user dashboard in Dataverse.  
+</details>
+<p></p>
+
+<details>
+  <summary><strong>Advanced Search</strong></summary><br>
+  Descriptive text about this section of your user dashboard in Dataverse.  
+</details>
+<p></p>
 
 ## Browsing Dataverse
 
