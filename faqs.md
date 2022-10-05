@@ -64,19 +64,75 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>What kind of data can I deposit?</strong></summary><br>
   
-   Text here
+   UNC Dataverse accepts all types of data; however, it offers optimized preservation for certain file types such as Stata, R, SPSS, and some Excel file types. Dataverse processes these optimized preservation file types during ingest and creates a software agnostic tab-delimited version as well as an RData version of the file for long-term preservation. It also permits users the ability to explore the data within the UNC Dataverse interface. All other file types are preserved at the bit-level only.
+  <p></p>
+   While UNC Dataverse can preserve all file types at the bit-level, it may not be the best data repository option for certain data types. If you are uncertain if UNC Dataverse is the best data repository for your research data, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation. 
+
 </details>
 <p></p>
 <details>
   <summary><strong>What are the recommended data file types I should provide?</strong></summary><br>
   
-   Text here
+   The file formats used by researchers are often informed by individual research practices and domain-specific standards. However, to avoid risks to long-term data preservation, access, and use that can arise from software obsolescence, the Odum Institute Data Archive recommends that data files be submitted in formats that are widely adopted, non-proprietary, free of external software dependencies, and well-documented.
+  <p></p>
+   The following file formats are supported with optimized preservation:
+  <p></p>
+   <table>
+      <tr>
+        <td><strong>IBM SPSS</strong></td>
+        <td>.por OR .sav</td>
+        <td>Versions 7 to 22</td>
+      </tr>
+      <tr>
+        <td><strong>Stata</strong></td>
+        <td>.dta</td>
+        <td>Versions 4 to 15</td>
+      </tr>
+      <tr>
+        <td><strong>R</strong></td>
+        <td>.RData</td>
+        <td>Versions 1 to 3</td>
+      </tr>
+      <tr>
+        <td><strong>Excel</strong></td>
+        <td>.xlsx</td>
+        <td>.xls is not supported</td>
+      </tr>
+      <tr>
+        <td><strong>Comma-separated values</strong></td>
+        <td>.csv</td>
+        <td>Limited support</td>
+      </tr>
+    </table> 
+  <p></p>
+   The following file formats for document files such as README files, codebooks/data dictionaries, instruments, and methodology reports are recommended:
+  <p></p>
+    <table>
+      <tr>
+        <td><strong>Text</strong></td>
+        <td>.txt</td>
+      </tr>
+      <tr>
+        <td><strong>Adobe Portable Document Format</strong></td>
+        <td>.pdf/ua OR .pdf/a OR .pdf</td>
+      </tr>
+    </table>
+  
 </details>
 <p></p>
 <details>
   <summary><strong>Are there file size limits?</strong></summary><br>
   
-   Text here
+   UNC Dataverse accepts self-deposit uploads of 2 GB per file. For individual files over 2GB in size, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for assistance or alternative storage solutions.
+  <p></p>
+   If your total file size is over 1TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
+
+</details>
+<p></p>
+<details>
+  <summary><strong>How many files can I upload into UNC Dataverse?</strong></summary><br>
+  
+   Currently there is no limit for how many files you may upload into UNC Dataverse; however, if your total file size is more than 1TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
 </details>
 <p></p>
 <details>
