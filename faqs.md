@@ -200,7 +200,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
   
-   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers UNC Dataverse Support Services for all aspects of the archiving process. 
+   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a> for all aspects of the archiving process. 
   <p></p>
    Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
 </details>
