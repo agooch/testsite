@@ -70,19 +70,19 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>I am not affiliated with UNC.  Can I still use UNC Dataverse to share my data?</strong></summary><br>
   
-   Text here
+   Yes. UNC Dataverse is available to all users outside of UNC Chapel Hill. Users may create their accounts using either their own institutional login via the Institutions option or they may create an account with a username and email option. You can learn more about Creating a Dataverse (link) account in our Getting Started (link) guide.
 </details>
 <p></p>
 <details>
   <summary><strong>If I leave my institution, can I transfer my UNC Dataverse account to my new institutional account?</strong></summary><br>
   
-   Text here
+   For account transfers, please contact us using the Support button at the top of UNC Dataverse. Provide your current account email address and username from UNC Dataverse in the body of the message and let us know that you would like to transfer your account to a new institutional login. We will contact you for further information in order to get the transfer completed.  
 </details>
 <p></p>
 <details>
   <summary><strong>The account verification email is missing the verification link. How do I verify my email address?</strong></summary><br>
   
-   Text here
+   This is a known issue. Unfortunately, some institutions have had to implement strict spam and email security filters that strip certain URLs from email messages. This is the case for UNC emails. We are unable to resolve this issue at the moment; however, users are still able to use UNC Dataverse fully without limitations even if their email address is not verified. 
 </details>
 
 ## Data
@@ -90,7 +90,9 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>What kind of data can I deposit?</strong></summary><br>
   
-   UNC Dataverse accepts all types of data; however, it offers optimized preservation for certain file types such as Stata, R, SPSS, and some Excel file types. Dataverse processes these optimized preservation file types during ingest and creates a software agnostic tab-delimited version as well as an RData version of the file for long-term preservation. It also permits users the ability to explore the data within the UNC Dataverse interface. All other file types are preserved at the bit-level only.
+   UNC Dataverse accepts all types of data; however, it offers optimized preservation for certain file types such as Stata, R, SPSS, and some Excel file types. Dataverse processes these optimized preservation file types during ingest and creates a software agnostic tab-delimited version as well as an RData version of the file for long-term access and preservation. Optimized preservation also permits users the ability to explore these file types within the UNC Dataverse interface. 
+  <p></p>
+  All other file types are preserved at the bit-level only.
   <p></p>
    While UNC Dataverse can preserve all file types at the bit-level, it may not be the best data repository option for certain data types. If you are uncertain if UNC Dataverse is the best data repository for your research data, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation. 
 
