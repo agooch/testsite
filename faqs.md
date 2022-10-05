@@ -171,7 +171,9 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Can I share sensitive data within the UNC Dataverse?</strong></summary><br>
   
-   UNC Dataverse cannot store or share sensitive data containing identifiable information such as protected health information (PHI) or personal identifiable information (PII). We recommend using the Safe Harbor or other approved methods for de-identifying data before depositing into UNC Dataverse. If your data cannot be de-identified, please contact <ahref="odumarchive@unc.edu">odumarchive@unc.edu</a> for alternative solutions to sharing sensitive data. 
+   UNC Dataverse cannot store or share sensitive data containing identifiable information such as protected health information (PHI) or personal identifiable information (PII). We recommend using the Safe Harbor or other approved methods for de-identifying data before depositing into UNC Dataverse. 
+  <p></p> 
+  If your data cannot be de-identified, please contact <ahref="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for alternative solutions to sharing sensitive data. 
 </details>
 <p></p>
 <details>
@@ -198,5 +200,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
   
-   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers UNC Dataverse Support Services for all aspects of the archiving process. Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
+   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers UNC Dataverse Support Services for all aspects of the archiving process. 
+  <p></p>
+   Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
 </details>
