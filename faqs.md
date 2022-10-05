@@ -65,6 +65,26 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
    Text here
 </details>
 
+## Account
+
+<details>
+  <summary><strong>I am not affiliated with UNC.  Can I still use UNC Dataverse to share my data?</strong></summary><br>
+  
+   Text here
+</details>
+<p></p>
+<details>
+  <summary><strong>If I leave my institution, can I transfer my UNC Dataverse account to my new institutional account?</strong></summary><br>
+  
+   Text here
+</details>
+<p></p>
+<details>
+  <summary><strong>The account verification email is missing the verification link. How do I verify my email address?</strong></summary><br>
+  
+   Text here
+</details>
+
 ## Data
 
 <details>
