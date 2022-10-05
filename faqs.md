@@ -173,7 +173,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
   
    UNC Dataverse cannot store or share sensitive data containing identifiable information such as protected health information (PHI) or personal identifiable information (PII). We recommend using the Safe Harbor or other approved methods for de-identifying data before depositing into UNC Dataverse. 
   <p></p> 
-  If your data cannot be de-identified, please contact <ahref="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for alternative solutions to sharing sensitive data. 
+  If your data cannot be de-identified, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for alternative solutions to sharing sensitive data. 
 </details>
 <p></p>
 <details>
