@@ -93,6 +93,15 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 ## Data
 
 <details>
+  <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
+  
+   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a> for all aspects of the archiving process. 
+  <p></p>
+   Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
+  
+</details>
+<p></p>
+<details>
   <summary><strong>What kind of data can I deposit?</strong></summary><br>
   
    UNC Dataverse accepts all types of data; however, it offers optimized preservation for certain file types such as Stata, R, SPSS, and some Excel file types. Dataverse processes these optimized preservation file types during ingest and creates a software agnostic tab-delimited version as well as an RData version of the file for long-term access and preservation. Optimized preservation also permits users the ability to explore these file types within the UNC Dataverse interface. 
@@ -197,10 +206,4 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 
 </details>
 <p></p>
-<details>
-  <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
-  
-   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a> for all aspects of the archiving process. 
-  <p></p>
-   Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
-</details>
+
