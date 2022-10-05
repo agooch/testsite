@@ -58,8 +58,14 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
    In addition to government mandates, research communities are quickly adopting the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable.  These principles offer guidance for ensuring that data are properly preserved, described, and shared for future access and reuse. UNC Dataverse is FAIR compliant.  
 
 </details>
+<p></p>
+<details>
+  <summary><strong>What is the difference between putting my data in Dataverse vs. other cloud storage options such as Dropbox or OneDrive?</strong></summary><br>
+  
+   Text here
+</details>
 
-## Policies and Data Requirements
+## Data
 
 <details>
   <summary><strong>What kind of data can I deposit?</strong></summary><br>
@@ -136,25 +142,31 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 </details>
 <p></p>
 <details>
+  <summary><strong>Can I share sensitive data within the UNC Dataverse?</strong></summary><br>
+  
+   Text here
+</details>
+<p></p>
+<details>
   <summary><strong>Can I control access to my data?</strong></summary><br>
   
    Text here
 </details>
 <p></p>
 <details>
-  <summary><strong>Are there any fees for depositing data into UNC Dataverse?</strong></summary><br>
+  <summary><strong>How long are files stored in UNC Dataverse?</strong></summary><br>
   
    Text here
 </details>
 <p></p>
 <details>
-  <summary><strong>May I share sensitive data within the UNC Dataverse?</strong></summary><br>
+  <summary><strong>Can I remove my datasets from UNC Dataverse?</strong></summary><br>
   
    Text here
 </details>
 <p></p>
 <details>
-  <summary><strong>If I leave my university or institution, can I transfer my UNC Dataverse account to my new institutional account?</strong></summary><br>
+  <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
   
    Text here
 </details>
