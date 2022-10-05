@@ -12,7 +12,7 @@ nav_order: 2
 
 # Frequently Asked Questions
 
-Our FAQ may help you with a few of your more pressing questions. We've broken them down into two categories: General and Polices & Data Requirements
+Our FAQ may help you with a few of your more pressing questions. We've broken them down into three categories: General, Account, and Data. If you don't see the answer to your question here, please contact us at <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>. 
 
 ## General
 
