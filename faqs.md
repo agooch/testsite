@@ -62,7 +62,12 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>What is the difference between putting my data in Dataverse vs. other cloud storage options such as Dropbox or OneDrive?</strong></summary><br>
   
-   Text here
+   While Dropbox and OneDrive may be approved and viable options for storing data during the active phase of your research, they are not long-term preservation and access platforms. Additionally, they do not support <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable. 
+  <p></p>
+  Using an established and trusted data repository like UNC Dataverse to share and archive your data ensures your research outputs and hard work are well described and findable now and into the future. 
+  <p></p>
+  Through UNC Dataverse, users can understand the context and licensing of your data thanks to the machine-readable metadata and customizable terms of use provided by a data repository. UNC Dataverse is built on recognized preservation technology that performs checks and audits on files and is backed up regularly to multiple servers across the country, meaning your data are safe from corruption and loss. The Odum Institute staff are also fully committed to the long-term preservation of research data and have developed <a href="https://odum.unc.edu/archive/#archive1" target="_blank">policies</a> around data archiving and security best practices and standards. 
+
 </details>
 
 ## Account
