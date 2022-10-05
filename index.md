@@ -12,4 +12,11 @@ nav_order: 1
 
 # UNC Dataverse User Guide
 
-Testing
+Welcome to the UNC Dataverse User Guide. This guide is for users of all experience levels and will walk you through setting up a Dataverse, depositing and describing your data, establishing permissions and terms of use for your data, and publishing and sharing your data. 
+<p></p>
+Our tutorial videos (link) are another useful resource in learning more about how UNC Dataverse works and how it can help you promote and preserve your research data and documentation. 
+<p></p>
+See our FAQs (link) for commonly asked questions related to UNC Dataverse.
+<p></p>
+The Odum Institute Data Archive also offers <a href="https://odum.unc.edu/archive/#archive5">UNC Dataverse Support Services</a> to guide or manage your data archiving needs throughout the life of your research project. 
+
