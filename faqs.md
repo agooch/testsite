@@ -19,15 +19,15 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>What is UNC Dataverse?</strong></summary><br>
   
-  The UNC Dataverse is the University of North Carolina at Chapel Hill's data repository. It is available to all UNCCH faculty, students, and staff, as well as to the general public for sharing and preserving research data and data related materials. The UNC Dataverse is managed and maintained by <a href="https://odum.unc.edu">The Odum Institute</a>.
+  UNC Dataverse is the University of North Carolina at Chapel Hill's data repository. It is available to all UNC-CH faculty, students, and staff, as well as to the general public for sharing and preserving research data and data related materials. UNC Dataverse is managed and maintained by <a href="https://odum.unc.edu" target="_blank">The Odum Institute</a>.
   <p></p>
-  Users are encouraged to explore the tool using our <a href="https://demo-dataverse.odum.unc.edu/dataverse/root">UNC Demo Dataverse</a>, our tutorials, as well as this user guide. If you have further questions, please contact The Odum Institute Data Archive at <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>. 
+  Users are encouraged to explore the tool using our <a href="https://demo-dataverse.odum.unc.edu/dataverse/root" target="_blank">UNC Demo Dataverse</a>, our tutorials (link), as well as this user guide. If you have further questions, please contact The Odum Institute Data Archive at <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>. 
 </details>
 <p></p>
 <details>
   <summary><strong>What is Dataverse?</strong></summary><br>
   
-  Dataverse is an open source web-based platform for sharing, preserving, and finding research data. It was developed by the <a href="https://www.iq.harvard.edu/product-development">Institute for Quantitative Social Science at Harvard University</a> and has been enhanced and adopted by many institutions across the world. For a brief overview of Dataverse's history and features, please view the video below, or visit <a href="https://dataverse.org/">The Dataverse Project</a>. 
+  Dataverse is an open source web-based platform for sharing, preserving, and finding research data. It was developed by the <a href="https://www.iq.harvard.edu/product-development" target="_blank">Institute for Quantitative Social Science at Harvard University</a> and has been enhanced and adopted by many institutions across the world. For a brief overview of Dataverse's history and features, please view the video below, or visit <a href="https://dataverse.org/" target="_blank">The Dataverse Project</a>. 
 </details>
 <p></p>
 <details>
@@ -43,15 +43,20 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
   
   UNC Dataverse is managed and maintained by <a href="https://odum.unc.edu">The Odum Institute for Research in Social Science</a> at the University of North Carolina at Chapel Hill. 
   <p></p>
-  Systems development and technical support is provided by Odum Institute's Research Data and Information Systems team. (Expand)
+  Systems development and technical support is provided by the <a href="https://odum.unc.edu/rdis/" target="_blank">Odum Institute Research Data and Information Systems</a> team. RDIS also offers custom Dataverse deployment and external tool development for integration with the Dataverse platform. External tools can range from metadata exploration and data analysis to data visualization applications and machine learning. To learn more about these services, please contact <a href="mailto:Jonathan_Crabtree@unc.edu">jonathan_crabtree@unc.edu</a>.  
   <p></p>
-  Data management planning, archiving, curation, and training is provided by Odum Institute's Data Archive.(Expand)   
+  Data management planning, archiving, curation, and training is provided by the <a href="https://odum.unc.edu/archive/" target="_blank">Odum Institute Data Archive</a>. UNC Dataverse support services are also offered in customizable packages that meet your project needs. Quotes are available upon request. We recommend setting up a brief, free consultation to discuss the needs of your project and your project timeline. To learn more about our services, please see <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a>.    
 </details>
 <p></p>
 <details>
   <summary><strong>Why should I deposit my research data in UNC Dataverse?</strong></summary><br>
   
-   Text about value, funder requirement, dissemination, and long term preservation as well as FAIR compliance (link to examples/resources)
+   Sharing and preserving research data is an important part of the research lifecycle. By depositing your data in a data repository like UNC Dataverse, you are ensuring that your research is accessible and reusable well into the future. Not only is this beneficial for your own research needs, but it permits others to build upon your work to advance scientific inquiry and discovery. 
+  <p></p>
+   The U.S. Office of Science and Technology Policy has released various memos (<a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf" target="_blank">2013</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf" target="_blank">2022</a>) charging federal funding agencies with developing and honing their <a href="https://odum.unc.edu/archive/#archive3" target="_blank">data management and sharing policies</a> for all funded research. In order to comply with these policies, researchers must share the outputs of their research with the public in appropriate data repositories.
+  <p></p>
+   In addition to government mandates, research communities are quickly adopting the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable.  These principles offer guidance for ensuring that data are properly preserved, described, and shared for future access and reuse. UNC Dataverse is FAIR compliant.  
+
 </details>
 
 ## Policies and Data Requirements
