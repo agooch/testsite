@@ -171,29 +171,32 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>Can I share sensitive data within the UNC Dataverse?</strong></summary><br>
   
-   Text here
+   UNC Dataverse cannot store or share sensitive data containing identifiable information such as protected health information (PHI) or personal identifiable information (PII). We recommend using the Safe Harbor or other approved methods for de-identifying data before depositing into UNC Dataverse. If your data cannot be de-identified, please contact <ahref="odumarchive@unc.edu">odumarchive@unc.edu</a> for alternative solutions to sharing sensitive data. 
 </details>
 <p></p>
 <details>
   <summary><strong>Can I control access to my data?</strong></summary><br>
   
-   Text here
+   Yes. UNC Dataverse offers access controls to Admin and Curator roles of your Dataset(s). Individual files can be Restricted, and Access Requests can be enabled to permit users to request access to each file through UNC Dataverse. To learn more about Access Restrictions, please see the Access Controls for Data section (link) of the Getting Started (link) guide. 
 </details>
 <p></p>
 <details>
   <summary><strong>How long are files stored in UNC Dataverse?</strong></summary><br>
   
-   Text here
+   Files are stored in perpetuity. The Odum Institute Data Archive and UNC Dataverse are members of Data-PASS, a community dedicated to the preservation of research data. As such, we have implemented a <a href="https://odum.unc.edu/wp-content/uploads/sites/1060/2020/01/Policy_DigitalPreservation_2020200124.pdf" target="_blank">Digital Preservation Policy</a> which defines our succession plan for continued access to our holdings. 
 </details>
 <p></p>
 <details>
   <summary><strong>Can I remove my datasets from UNC Dataverse?</strong></summary><br>
   
-   Text here
+   UNC Dataverse is an open data repository for sharing and preserving research data. All published data are given a persistent unique identifier (DOI), which directs users to the permanent published dataset record. In most instances, we would not recommend removing data from UNC Dataverse; however, if data are discovered to be too sensitive or in violation of copyright or terms of use, Odum Institute Data Archivists will remove the data from UNC Dataverse. 
+  <p></p>
+   If you have questions about removing your data from UNC Dataverse, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>. 
+
 </details>
 <p></p>
 <details>
   <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
   
-   Text here
+   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers UNC Dataverse Support Services for all aspects of the archiving process. Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
 </details>
