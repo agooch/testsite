@@ -17,12 +17,12 @@ nav_order: 1
  New users can create a free UNC Dataverse account using either the Institution option or the Username/Email option. 
  
  <p></p>
- <strong>Institution Option</strong>
+ <strong>Institution Option</strong><br>
  If you are located at a university or institution that uses single sign-on, you may be able to login and create an account using those credentials. Simply search the dropdown menu for your institution’s name. Login with your institution’s credentials and fill in any additional information in the account form provided by Dataverse. Agree to the UNC Dataverse Terms of Use and create your account. Now you can login to UNC Dataverse using your institution’s single sign-on.
  <p></p>
 Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for questions about account transfers.
  <p></p>
- <strong>Username/Email Option</strong>
+ <strong>Username/Email Option</strong><br>
  If your institution is not represented in the Institution option or if you prefer to use an account outside of your institution, you may use the Username/Email option to create your account. Fill in the create account form fields and agree to the UNC Dataverse Terms of Use, then submit the form to create your account. You can now login to UNC Dataverse using a personal or non-institutional username/email address. 
  <p></p>
 Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for questions about account transfers.
