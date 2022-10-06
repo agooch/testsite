@@ -47,7 +47,7 @@ The User Dashboard is where you can find your account information, access your n
   <summary><strong>Account Information</strong></summary><br>
   This section allows users to review their account information. Accounts using an Institutional login are unable to edit their account information. If you are leaving your institution and would like to transfer your account, please contact UNC Dataverse Support using the Support button at the top of UNC Dataverse.
   <p></p>
-Please note that there is a known issue with verifying emails from certain institutions. You can read more about it in our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs – Account</a> section.  
+Please note that there is a known issue with verifying emails from certain institutions. You can read more about it in our <a href="https://agooch.github.io/testsite/faqs.html#account" target="_blank">FAQs – Account</a> section.  
 </details>
 <p></p>
 
