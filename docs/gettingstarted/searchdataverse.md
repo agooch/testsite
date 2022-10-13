@@ -18,9 +18,9 @@ Searching UNC Dataverse is relatively straightforward. Users may use either the 
 
 <details>
   <summary><strong>Basic Search</strong></summary><br>
-   <img src="https://agooch.github.io/testsite/assets/images/searchgif2.gif"> 
-  <p></p>
-  UNC Dataverse offers a search bar to help users locate data or research projects of interest. The bar is just above the Results list and functions like a typical search bar. Simply enter the keywords describing the type(s) of data you are looking for and click ‘Find’. 
+  UNC Dataverse offers a search bar to help users locate data or research projects of interest. The bar is just above the Results list and functions like a typical search bar. Simply enter the keywords describing the type(s) of data you are looking for and click ‘Find’.
+    <p></p>
+  <img src="https://agooch.github.io/testsite/assets/images/searchgif2.gif">
 </details>
 <p></p>
 
@@ -30,13 +30,13 @@ Searching UNC Dataverse is relatively straightforward. Users may use either the 
   <p></p>
   To get started, click ‘Advanced Search’ beside the search bar on the main UNC Dataverse landing page. You will be redirected to a new search page.
   <p></p>
-  <img src="https://agooch.github.io/testsite/assets/images/advancedsearch1.png">
+  From here you can decide to search across Dataverse, Datasets, or individual Files. Simply scroll to the section you wish to search through and then identify the field(s) you want to enter keywords into.
   <p></p>
-  From here you can decide to search across Dataverse, Datasets, or individual Files. Simply scroll to the section you wish to search through and then identify the field(s) you want to enter keywords into. 
+   <img src="https://agooch.github.io/testsite/assets/images/advancedsearch1.png">
+  <p></p>
+  Once you’ve entered as many keywords as needed, click ‘Find’. Your results will load in a new UNC Dataverse page.
   <p></p>
   <img src="https://agooch.github.io/testsite/assets/images/advancedsearchgif1.gif">
-  <p></p>
-  Once you’ve entered as many keywords as needed, click ‘Find’. Your results will load in a new UNC Dataverse page. 
   <p></p>
   If your search provides 0 results, we recommend removing a keyword or checking your spelling for any typos. 
 
