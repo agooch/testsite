@@ -1,7 +1,7 @@
 ---
 title: Create a Dataset
 parent: Getting Started
-nav_order: 4
+nav_order: 5
 ---
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
