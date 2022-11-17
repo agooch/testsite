@@ -1,7 +1,7 @@
 ---
 title: Deaccessioning
 parent: Getting Started
-nav_order: 6
+nav_order: 7
 ---
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
