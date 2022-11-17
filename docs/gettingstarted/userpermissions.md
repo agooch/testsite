@@ -35,7 +35,7 @@ sign-on and you need to contribute to a UNC researcher’s dataverse, you may re
 via this (link).
 <p></p>
 <strong>Oauth</strong>: A user who logged in via Gmail or Github. This feature has been disabled. Any user who logged in 
-via Gmail or Github will need to convert their account to a Shibboleth account or may request a local account (link) 
+via Gmail or Github will need to convert their account to a Shibboleth account or may <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> 
 if they require access to a pre-existing dataverse. The Odum Institute Data Archive will consider all requests 
 and reserves the right to deny any request deemed outside of the scope of our current 
 <a href="https://odum.unc.edu/wp-content/uploads/sites/1060/2022/11/Policy_UNCDataverseTermsofUse_20221101.pdf" target="_blank">Terms of Use</a>.
