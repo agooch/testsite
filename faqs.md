@@ -19,7 +19,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>What is UNC Dataverse?</strong></summary><br>
   
-  UNC Dataverse is the University of North Carolina at Chapel Hill's data repository. It is available to all UNC-CH faculty, students, and staff, as well as to the general public for sharing and preserving research data and data related materials. UNC Dataverse is managed and maintained by <a href="https://odum.unc.edu" target="_blank">The Odum Institute</a>.
+  UNC Dataverse is the University of North Carolina at Chapel Hill's data repository. It is available to all UNC-CH faculty, students, and staff, as well as affiliated partners for sharing and preserving research data and data related materials. UNC Dataverse is managed and maintained by <a href="https://odum.unc.edu" target="_blank">The Odum Institute</a>.
   <p></p>
   Users are encouraged to explore the tool using our <a href="https://demo-dataverse.odum.unc.edu/dataverse/root" target="_blank">UNC Demo Dataverse</a>, our tutorials (link), as well as this user guide. If you have further questions, please contact The Odum Institute Data Archive at <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>. 
 </details>
@@ -35,7 +35,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
   
   A dataverse is a collection that can hold datasets as well as other dataverse collections. You can think of it as a container as depicted below. 
   <img src="https://agooch.github.io/testsite/assets/images/containerimage.png">
-  This permits users to organize their research in various ways. For examples of how you can organize your data within UNC Dataverse, please see the Dataverse Organization Examples in the UNC Demo Dataverse. ADD LINK
+  This structure permits users to organize their research in various ways. For examples of how you can organize your data within UNC Dataverse, please see the Dataverse Organization Examples in the <a href="https://demo-dataverse.odum.unc.edu/dataverse/root" target="_blank">UNC Demo Dataverse</a>.
 </details>
 <p></p>
 <details>
@@ -60,7 +60,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 </details>
 <p></p>
 <details>
-  <summary><strong>What is the difference between putting my data in Dataverse vs. other cloud storage options such as Dropbox or OneDrive?</strong></summary><br>
+  <summary><strong>What is the difference between putting my data in UNC Dataverse vs. other cloud storage options such as Dropbox or OneDrive?</strong></summary><br>
   
    While Dropbox and OneDrive may be approved and viable options for storing data during the active phase of your research, they are not long-term preservation and access platforms. Additionally, they do not support <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable. 
   <p></p>
@@ -75,8 +75,25 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>I am not affiliated with UNC.  Can I still use UNC Dataverse to share my data?</strong></summary><br>
   
-   Yes. UNC Dataverse is available to all users outside of UNC Chapel Hill. Users may create their accounts using either their own institutional login via the Institutions option or they may create an account with a username and email option. You can learn more about Creating a Dataverse (link) account in our Getting Started (link) guide.
+   The UNC Dataverse user policy has recently been updated to limit data sharing within UNC Dataverse to UNC faculty, students, and staff. However, we recognize that UNC researchers often partner with external collaborators on projects; therefore, external collaborators are permitted to share data within a UNC research project dataverse. 
+  <p></p>
+If you are not affiliated with UNC and are not an external collaborator, you will not be able to create any new dataverses or share data within UNC Dataverse. We recommend exploring <a href="https://dataverse.harvard.edu" target="_blank">Harvard Dataverse</a> as an open data repository option.
+
 </details>
+<p></p>
+<details>
+  <summary><strong>I am an external collaborator/co-PI/partner on a UNC-based research initiative that is using UNC Dataverse to share data. How do I request permission to contribute to a UNC research project dataverse? </strong></summary><br>
+The first step is to create a UNC Dataverse account. If your institution uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you can simply click Login and select your institution from the dropdown menu. If your institution does not use Shibboleth single sign-on, you will need to request a local account be created. Requests for a local account may be submitted here [LINK NEEDS TO BE ADDED HERE]. 
+  <p></p>
+  Once you have a UNC Dataverse account, you will need to contact the Admin(s) of the UNC research project dataverse you wish to contribute to. The Admin can assign your UNC Dataverse account a role within the Permissions page of the project dataverse.
+
+</details>
+<p></p>
+<details>
+  <summary><strong>I am an Admin for my dataverse and need to add a collaborator as a contributor. How do I grant them permissions within my dataverse? </strong></summary><br>
+To grant permissions to a user, navigate to your project dataverse and click Edit. Select Permissions from the dropdown menu. Under Users/Groups, select Assign Roles to Users/Groups. In the pop-up window, enter the user account name and select it from the drop-down. Please note that users must have a Dataverse account to be given permissions. In the same pop-up window, select the role you would like to assign to this user. Clicking on the role will provide a description of the types of actions that role may take. Click Save Changes.
+
+</details> 
 <p></p>
 <details>
   <summary><strong>If I leave my institution, can I transfer my UNC Dataverse account to my new institutional account?</strong></summary><br>
@@ -87,7 +104,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
 <details>
   <summary><strong>The account verification email is missing the verification link. How do I verify my email address?</strong></summary><br>
   
-   This is a known issue. Unfortunately, some institutions have had to implement strict spam and email security filters that strip certain URLs from email messages. This is the case for UNC emails. We are unable to resolve this issue at the moment; however, users are still able to use UNC Dataverse fully without limitations even if their email address is not verified. 
+   This is a known bug. We are unable to resolve this issue at the moment; however, users are still able to use UNC Dataverse fully without limitations even if their email address is not verified.  
 </details>
 
 ## Data
