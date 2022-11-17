@@ -73,6 +73,6 @@ Please note that there is a known issue with verifying emails from certain insti
 
 <details>
   <summary><strong>API Token</strong></summary><br>
-  UNC Dataverse users can generate an API token to utilize the Dataverse APIs. API tokens are valid for one year. Review the <a href="https://guides.dataverse.org/en/5.3/api/intro.html" target="_blank">Dataverse API Guide</a> for more information on available APIs and their functions.   
+  UNC Dataverse users can generate an API token to utilize the Dataverse APIs. API tokens are valid for one year. Review the <a href="https://guides.dataverse.org/en/5.9/api/index.html" target="_blank">Dataverse API Guide</a> for more information on available APIs and their functions.   
 </details>
 <p></p>
