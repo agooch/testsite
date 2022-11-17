@@ -91,7 +91,14 @@ The first step is to create a UNC Dataverse account. If your institution uses Sh
 <p></p>
 <details>
   <summary><strong>I am an Admin for my dataverse and need to add a collaborator as a contributor. How do I grant them permissions within my dataverse? </strong></summary><br>
-To grant permissions to a user, navigate to your project dataverse and click Edit. Select Permissions from the dropdown menu. Under Users/Groups, select Assign Roles to Users/Groups. In the pop-up window, enter the user account name and select it from the drop-down. Please note that users must have a Dataverse account to be given permissions. In the same pop-up window, select the role you would like to assign to this user. Clicking on the role will provide a description of the types of actions that role may take. Click Save Changes.
+To grant permissions to a user, navigate to your project dataverse and click Edit. 
+  <ul>
+    <li>Select Permissions from the dropdown menu</li>
+    <li>Under Users/Groups, select Assign Roles to Users/Groups</li> 
+    <li>In the pop-up window, enter the user account name and select it from the drop-down. Please note that users must have a Dataverse account to be given permissions</li>
+    <li>In the same pop-up window, select the role you would like to assign to this user. Clicking on the role will provide a description of the types of actions that role may take</li>
+    <li>Click Save Changes</li>
+  </ul>
 
 </details> 
 <p></p>
