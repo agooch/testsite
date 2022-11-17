@@ -12,6 +12,6 @@ nav_order: 3
 
 # Getting Started
 
-This guide will help users get started using and understanding the capabilities of UNC Dataverse. Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for commonly asked questions or our Tutorials (link) for video demonstrations of UNC Dataverse. 
+This guide will help users get started using and understanding the capabilities of UNC Dataverse. Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for commonly asked questions or our <a href="https://agooch.github.io/testsite/tutorials.html" target="_blank">Tutorials</a> for video demonstrations of UNC Dataverse. 
 <p></p>
 If you have any questions, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a>.   
