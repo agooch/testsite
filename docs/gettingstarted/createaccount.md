@@ -14,18 +14,38 @@ nav_order: 2
 
  <img src="https://agooch.github.io/testsite/assets/images/LoginSignUp.png">
  <p></p>
- New users can create a free UNC Dataverse account using either the Institution option or the Username/Email option. 
+New UNC Shibboleth and Non-UNC Shibboleth users can create a free UNC Dataverse account using the Institution option. 
  
  <p></p>
  <strong>Institution Option</strong><br>
- If you are located at a university or institution that uses single sign-on, you may be able to login and create an account using those credentials. Simply search the dropdown menu for your institution’s name. Login with your institution’s credentials and fill in any additional information in the account form provided by Dataverse. Agree to the UNC Dataverse Terms of Use and create your account. Now you can login to UNC Dataverse using your institution’s single sign-on.
+ If you are located at a university or institution that uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you may login and create an account using your institutional credentials. Simply search the dropdown menu for your institution’s name. Login with your institution’s credentials and fill in any additional information in the account form provided by Dataverse. Agree to the UNC Dataverse Terms of Use and create your account. Now you can login to UNC Dataverse using your institution’s single sign-on. 
  <p></p>
 Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for questions about account transfers.
  <p></p>
- <strong>Username/Email Option</strong><br>
- If your institution is not represented in the Institution option or if you prefer to use an account outside of your institution, you may use the Username/Email option to create your account. Fill in the create account form fields and agree to the UNC Dataverse Terms of Use, then submit the form to create your account. You can now login to UNC Dataverse using a personal or non-institutional username/email address. 
+ If your institution is not represented in the Institution dropdown menu, but you know it uses Shibboleth single sign-on, please contact your university’s identity management team, usually an ITS department and ask that:  
+  <ul>
+    <li>Your institution offer the "Research and Scholarship Attribute Set" to all Shibboleth service providers</li>
+    <li>Or, have your institution share the attribute set with dataverse.unc.edu explicitly</li>
+  </ul>
+For new users who do not fall under UNC Shibboleth or Non-UNC Shibboleth, please see our <a href="https://agooch.github.io/testsite/docs/gettingstarted/userpermissions.html" target="_blank">User Permissions Policy<a>.
  <p></p>
-Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for questions about account transfers.
+ <strong>Local Account Requests</strong><br>
+ Users who need to contribute to pre-existing UNC Dataverse project dataverses, but their institution is not part of the InCommon Federation and does not use Shibboleth single sign-on, will need to request a local UNC Dataverse account be created for them. 
+  <p></p>
+Local account requests must be submitted (here) and must include the following information:
+  <ul>
+    <li>First Name</li>
+    <li>Last Name</li>
+    <li>Username</li>
+    <li>Email address</li>
+    <li>Affiliation</li>
+    <li>Position</li>
+    <li>URL to UNC Dataverse project dataverse you wish you contribute to</li>
+  </ul>
+<p></p> 
+Requests will be processed as soon as possible, and Odum Archivists may need to contact you for additional information. We will also reach out to the Admin(s) of the UNC Dataverse project dataverse to confirm that you have permissions to contribute to their dataverse before creating your local account. 
+
+Odum Institute Data Archive reserves the right to revoke a local account at any time if the user is found in violation of our <a href="https://odum.unc.edu/wp-content/uploads/sites/1060/2022/11/Policy_UNCDataverseTermsofUse_20221101.pdf" target="_blank">Terms of Use</a>. 
  <p></p>
 ## User Dashboard
 
