@@ -14,7 +14,7 @@ nav_order: 3
 
 ## Searching Dataverse
 
-Searching UNC Dataverse is relatively straightforward. Users may use either the search bar located above the Results list on the main page, or they can explore dataverse using the facets on the left side of the main page.
+Searching UNC Dataverse is relatively straightforward. Users can use the search bar located above the results list on the main page, or they can perform a more targeted search using the Advanced Search feature. 
 
 <details>
   <summary><strong>Basic Search</strong></summary><br>
@@ -44,7 +44,7 @@ Searching UNC Dataverse is relatively straightforward. Users may use either the 
 <p></p>
 
 ## Browsing Dataverse
-
+UNC Dataverse and its project dataverses, sometimes referred to as collections or sub-dataverses, can be browsed by narrowing results using the facets on the left of the main page. Users can also sort their refined results within a dataverse. 
 <details>
   <summary><strong>Dataverse vs. Dataset</strong></summary><br>
   A dataverse is a collection that can hold datasets as well as other dataverse collections. You can think of it as a container as depicted below.
@@ -80,7 +80,7 @@ Searching UNC Dataverse is relatively straightforward. Users may use either the 
 <p></p>
 
 ## Browsing a Dataset
-
+Each dataverse contains datasets, sometimes referred to as dataset records, which provide contextual information about the data files, documents, and/or code housed within that record. It is important to review a dataset record completely before accessing the files to ensure you are complying with the terms of use and that you have a full understanding of the contents of the dataset record.  
 <details>
   <summary><strong>Breakdown of Metadata</strong></summary><br>
   A dataset record within UNC Dataverse is comprised of standardized fields that contain information, or metadata, about the contents of the dataset record. 
