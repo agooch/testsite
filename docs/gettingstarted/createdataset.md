@@ -10,7 +10,17 @@ nav_order: 5
   textColor: '#fff'
 })</script>
 
+
 # Create a Dataset
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+# Create a New Dataset
 
 ## Dataset Template
 
