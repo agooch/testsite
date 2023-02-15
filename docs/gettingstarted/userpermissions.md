@@ -23,20 +23,23 @@ With this change, we have implemented new user permissions as described below:
 UNC Shibboleth users have permissions to create new dataverses within UNC Dataverse and share their data 
 within those dataverses.
 <p></p>
-<strong>Non-UNC Shibboleth</strong>: An affiliate who logs into UNC Dataverse using their institution’s Shibboleth single 
-sign-on. Non-UNC Shibboleth users may contribute to pre-existing dataverses they are Admins of or may request 
+<strong>Non-UNC Shibboleth</strong>: An affiliate who logs into UNC Dataverse using their institution’s Shibboleth single sign-on. Non-UNC Shibboleth users may contribute to pre-existing dataverses they are Admins of or may request 
 access to contribute to someone else’s dataverse. To request access to share data within an existing dataverse, 
 please click on the Contact link of that dataverse and request permissions from the dataverse Admin.
 <p></p>
-<strong>Local</strong>: A user who logs into UNC Dataverse using a Dataverse-specific username and password. If you had a 
-local account before November 1st, you are still able to access any dataverses and datasets you own. You may 
+<strong>Local</strong>: A user who logs into UNC Dataverse using a Dataverse-specific username and password. If you had a local account before November 1st, you are still able to access any dataverses and datasets you own. You may 
 continue to add datasets to your pre-existing dataverse(s). If your institution does not use Shibboleth single 
-sign-on and you need to contribute to a UNC researcher’s dataverse, you may request a local account be created 
-via this (link).
+sign-on and you need to contribute to a UNC researcher’s dataverse, you may <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local account be created</a>. 
+<ul>
+  <li>Select 'UNC Dataverse',</li>
+  <li>Then select 'Request a new account',</li>
+  <li>Fill in the form</li>
+  <li>Submit</li>
+</ul>
 <p></p>
 <strong>Oauth</strong>: A user who logged in via Gmail or Github. This feature has been disabled. Any user who logged in 
-via Gmail or Github will need to convert their account to a Shibboleth account or may <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> 
-if they require access to a pre-existing dataverse. The Odum Institute Data Archive will consider all requests 
+via Gmail or Github will need to convert their account to a Shibboleth account or may <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local account</a> 
+if you require access to a pre-existing dataverse. The Odum Institute Data Archive will consider all requests 
 and reserves the right to deny any request deemed outside of the scope of our current 
 <a href="https://odum.unc.edu/wp-content/uploads/sites/1060/2022/11/Policy_UNCDataverseTermsofUse_20221101.pdf" target="_blank">Terms of Use</a>.
 <p></p> 
