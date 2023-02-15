@@ -83,7 +83,13 @@ If you are not affiliated with UNC and are not an external collaborator, you wil
 <p></p>
 <details>
   <summary><strong>I am an external collaborator/co-PI/partner on a UNC-based research initiative that is using UNC Dataverse to share data. How do I request permission to contribute to a UNC research project dataverse? </strong></summary><br>
-The first step is to create a UNC Dataverse account. If your institution uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you can simply click Login and select your institution from the dropdown menu. If your institution does not use Shibboleth single sign-on, you will need to <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> be created. Requests for a local account may be submitted <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">here</a>.  
+The first step is to create a UNC Dataverse account. If your institution uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you can simply click Login and select your institution from the dropdown menu. If your institution does not use Shibboleth single sign-on, you will need to <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> be created. Requests for a local account may be submitted <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">here</a>. 
+<ul>
+  <li>Select 'UNC Dataverse',</li>
+  <li>Then select 'Request a new account',</li>
+  <li>Fill in the form</li>
+  <li>Submit</li>
+</ul> 
   <p></p>
   Once you have a UNC Dataverse account, you will need to contact the Admin(s) of the UNC research project dataverse you wish to contribute to. The Admin can assign your UNC Dataverse account a role within the Permissions page of the project dataverse.
 
