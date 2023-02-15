@@ -57,6 +57,8 @@ To add a facet, select the desired facet(s) in the list on the left and then cli
 <p></p>
 Once you have added all the necessary information and selected your metadata and facet customizations, click on ‘Create Dataverse’. Congratulations! You’ve successfully created your first dataverse within UNC Dataverse.
 <p></p>
+# Customizing Your Project Dataverse
+
 You may further customize your project dataverse by selecting ‘Edit’ and choosing from the dropdown menu. Additional customizations include setting permissions levels, assigning roles to other users or groups, adding design elements such as logos and project links, developing dataset templates, and creating guestbooks to track user metrics. 
 <p></p>
 <img src="https://agooch.github.io/testsite/assets/images/editdataverse.png">
