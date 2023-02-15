@@ -27,8 +27,8 @@ within those dataverses.
 access to contribute to someone else’s dataverse. To request access to share data within an existing dataverse, 
 please click on the Contact link of that dataverse and request permissions from the dataverse Admin.
 <p></p>
-<strong>Local</strong>: A user who logs into UNC Dataverse using a Dataverse-specific username and password. If you had a local account before November 1st, you are still able to access any dataverses and datasets you own. You may 
-continue to add datasets to your pre-existing dataverse(s). If your institution does not use Shibboleth single 
+<strong>Local</strong>: A user who logs into UNC Dataverse using a Dataverse-specific username and password. If you had a local account before November 1st, 2022, you are still able to access any dataverses and datasets you own. You may 
+continue to add datasets to your pre-existing dataverse(s). All new users after November 1st, 2022, must create an account using Shibboleth single sign-on. If your institution does not use Shibboleth single 
 sign-on and you need to contribute to a UNC researcher’s dataverse, you may <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local account be created</a>. 
 <ul>
   <li>Select 'UNC Dataverse',</li>
