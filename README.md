@@ -2,7 +2,7 @@
 
 Welcome to the UNC Dataverse User Guide. This guide has been developed to assist users in understanding and using UNC Dataverse. 
 
-<a href="https://agooch.github.io/testsite/faqs.html" target="_blank">Frequently Asked Questions</a>\
+<a href="/faqs.html" target="_blank">Frequently Asked Questions</a>\
 Commonly asked questions about using UNC Dataverse and UNC Dataverse accounts. 
 
 <a href="https://agooch.github.io/testsite/docs/gettingstarted/gettingstarted.html" target="_blank">Getting Started</a>\
