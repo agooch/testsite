@@ -106,10 +106,3 @@ Enter text here
 
 Enter text here
 
-## Delete Draft Dataset
-
-Enter text here
-
-## Deaccession Published Dataset/Dataverse
-
-Enter text here (Contact Odum Archive)
