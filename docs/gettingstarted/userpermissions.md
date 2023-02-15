@@ -19,14 +19,17 @@ research community.
 <p></p>
 With this change, we have implemented new user permissions as described below:
 <p></p>
+<a name="UNCShib"></a>
 <strong>UNC Shibboleth</strong>: A faculty, student, or staff member of UNC Chapel Hill that logs in with their onyen. 
 UNC Shibboleth users have permissions to create new dataverses within UNC Dataverse and share their data 
 within those dataverses.
 <p></p>
+<a name="NONUNCShib"></a>
 <strong>Non-UNC Shibboleth</strong>: An affiliate who logs into UNC Dataverse using their institution’s Shibboleth single sign-on. Non-UNC Shibboleth users may contribute to pre-existing dataverses they are Admins of or may request 
 access to contribute to someone else’s dataverse. To request access to share data within an existing dataverse, 
 please click on the Contact link of that dataverse and request permissions from the dataverse Admin.
 <p></p>
+<a name="Local"></a>
 <strong>Local</strong>: A user who logs into UNC Dataverse using a Dataverse-specific username and password. If you had a local account before November 1st, 2022, you are still able to access any dataverses and datasets you own. You may 
 continue to add datasets to your pre-existing dataverse(s). All new users after November 1st, 2022, must create an account using Shibboleth single sign-on. If your institution does not use Shibboleth single 
 sign-on and you need to contribute to a UNC researcher’s dataverse, you may <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local account be created</a>. 
@@ -37,6 +40,7 @@ sign-on and you need to contribute to a UNC researcher’s dataverse, you may <a
   <li>Submit</li>
 </ul>
 <p></p>
+<a name="Oauth"></a>
 <strong>Oauth</strong>: A user who logged in via Gmail or Github. This feature has been disabled. Any user who logged in 
 via Gmail or Github will need to convert their account to a Shibboleth account or may <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local account</a> 
 if you require access to a pre-existing dataverse. The Odum Institute Data Archive will consider all requests 
