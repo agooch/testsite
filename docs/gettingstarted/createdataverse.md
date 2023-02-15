@@ -133,32 +133,124 @@ The final section of the Permissions page is the Roles section. This is a list o
 
 ## Groups
 
-Enter text here
+Groups are a useful way of bundling users to quickly assign or revoke permissions. UNC Dataverse allows Admins and Curators to create ‘groups’ through a simple pop-up window in the interface. 
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/creategroup.png">
+<p></p>
+Enter the information into the required fields, a description, and then use the Users/Groups field to locate the individual users or pre-existing groups you’d like to include in your group. Once you’ve included everyone in your group, click ‘Create Group’. You may now use the Permissions page to assign roles to this group.
 
 ## Dataset Template
 
-Enter text here
+A dataset template permits Admins, Contributors, and Curators the ability to create a new dataset record using a pre-populated metadata template within their project dataverse. This is a useful feature for those project dataverses that will house many dataset records with similar metadata. The dataset template can help speed up the dataset record creation process by eliminating redundant metadata entry. 
+<p></p>
+(Dataset Templates tutorial video)
+<p></p>
+<details>
+  <summary><strong>Create a Dataset Template</strong></summary><br>
+
+To create a Dataset Template, login to UNC Dataverse and navigate to your project dataverse. Click on Edit in the far right of the page and select ‘Dataset Templates’ from the dropdown menu. Select ‘+ Create Dataset Template’ on the right side of the Dataset Templates page. 
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/datasettemplate.png">
+<p></p>
+Before filling the metadata fields in the Citation Metadata block, you must name your Dataset Template in the Template Name field. Select a name to describe the template and then continue down the page. 
+<p></p>
+Within each appropriate field, provide the information or formatting that will be used for multiple dataset records. For example, if your project will have multiple dataset records across different years, you may want to include formatting in the Title field. 
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/datasettemplate1.png">
+<p></p>
+Continue down the Dataset Template page and enter in other common fields that your datasets will share such as Subject, Keywords, Related Publications, Producer, Grant Information, etc. 
+<p></p>
+When you have finished entering in the needed information, click ‘Save + Add Terms’ at the bottom of the page. You will then be directed to the Terms of Use page where you can edit the Terms of Use (link). 
+<p></p>
+Once you have completed editing the Terms of Use, click ‘Save Dataset Template’. 
+<p></p>
+Your new Dataset Template will appear in the table on the Dataset Templates page where you can view, edit, and delete the template. 
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/datasettemplate2.png">
+<p></p>
+To set this Dataset Template as the default template for future datasets, click the ‘Make Default’ button under the Action section of the table. Any new datasets created within your project dataverse will automatically default to this template. Users will have the option to deselect the template during dataset creation (link). 
+  </details>
+<p></p>
 
 ## Dataset Guestbooks
 
+One of the unique features of UNC Dataverse is the Guestbook. Admin can create a custom guestbook that tracks user information including name, institution, files downloaded, and reason for accessing these downloads. This information can be populated in a Guestbook Report that can be viewed in the UNC Dataverse interface or can be downloaded as a CSV. Tracking these metrics helps researchers and funding agencies recognize the value of sharing their data, which data are most popular, and why others may be interested in reusing their data for their own research. 
+<p></p>
+(Guestbook tutorial video)
+
 <details>
   <summary><strong>Create Guestbook</strong></summary><br>
-  Descriptive text about this section.  
+  To create a Guestbook, login to UNC Dataverse and navigate to your project dataverse. Click Edit on the far right of the page and select ‘Dataset Guestbooks’ from the dropdown menu. Click on ‘Create Dataset Guestbook’.
+  <p></p>
+<img src="https://agooch.github.io/testsite/assets/images/createguestbook.png">
+<p></p>
+  <ol>
+    <li>Enter the Guestbook name</li>
+    <li>Under Data Collected, use the checkboxes to make those fields ‘required’</li>
+    <li>Under Custom Questions, select the Question Type, enter the Question Text, and use the checkbox to mark that field as ‘required’. If you need additional custom questions, use the + button to create more</li>
+    <li>Once you’ve completed customizing your guestbook, click on ‘Create Dataset Guestbook’</li>
+  </ol>
+  <p></p>
+<img src="https://agooch.github.io/testsite/assets/images/guestbooklist.png">
+<p></p>
+  Your new guestbook will appear in a list on the Dataset Guestbooks page. It will display the name of the guestbook, the date created, how many datasets have this guestbook enabled, the number of responses to the guestbook, as well as ways to view, copy, edit, or delete the guestbook.
 </details>
 <p></p>
 
 <details>
   <summary><strong>Enable/Disable Guestbook</strong></summary><br>
-  Descriptive text about this section.  
+  Creating a guestbook is the first step in tracking usage statistics for your data. The second step is to enable the guestbook on your datasets. To do this, navigate to the dataset you wish to include a guestbook on.
+  <p></p>
+  <ol>
+    <li>Select Edit Dataset on the right of the dataset page</li>
+    <li>Choose Terms</li>
+    <li>Scroll to the bottom of the Terms page until you reach the Guestbook section</li>
+    <p></p>
+<img src="https://agooch.github.io/testsite/assets/images/enableguestbook.png">
+<p></p>
+    <li>Select the guestbook you wish to enable</li>
+    <li>Click Save Changes</li>
+  </ol>
+  <p></p>
+Any user downloading or exploring files within this dataset will be prompted to fill in the dataset guestbook first. UNC Dataverse will automatically populate Dataverse account information; however, users may include additional information as well.
+  <p></p>
+If you need to disable a guestbook, navigate back to the dataset, and select Edit Dataset, then Terms. Scroll to the bottom of the Terms page to the Guestbook section and click the ‘Clear Selection’ button to deselect the guestbook. Save changes and the guestbook will no longer be enabled for that dataset.
+
 </details>
 <p></p>
 
 <details>
   <summary><strong>Generate Guestbook Report</strong></summary><br>
-  Descriptive text about this section.  
+  When a guestbook is enabled for a dataset record, Dataverse tracks user downloads and data explorations of the files within that record. These metrics can be viewed within the UNC Dataverse platform and exported as a spreadsheet. 
+  <p></p>
+  To view Guestbook entries, login to your project dataverse. Click on Edit on the far right of the page and select ‘Dataset Guestbooks’ from the dropdown menu. You will see a list of your guestbooks with usage statistics for each guestbook. 
+  <p></p>
+<img src="https://agooch.github.io/testsite/assets/images/guestbookreport.png">
+<p></p>
+  Click on ‘View Responses’ to see all user downloads and data explorations for your enabled guestbook. Dataverse automatically tracks user information such as name and affiliation. It will also record the exact file(s) downloaded and/or viewed along with the date these files were accessed.
+  <p></p>
+To download the responses into a CSV spreadsheet, click the ‘Download All Responses’ button above the table. 
+  
 </details>
 <p></p>
 
 ## Featured Dataverses
 
-Enter text here
+For research projects with multiple studies or research centers conducting multiple projects, you may wish to organize your data within sub-dataverses. One way to display all the sub-dataverses within a dataverse, is to define them as ‘Featured Dataverses’. Featured Dataverses will appear above the Results section of your landing page. 
+<p></p>
+To enable a Featured Dataverse, navigate to your project dataverse and select Edit from the right side of the page. Choose ‘Featured Dataverses’ from the dropdown menu. 
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/featureddataverse.png">
+<p></p>
+A pop-up window will appear containing a list of published sub-dataverses that can be added as ‘Featured Dataverses’.
+<p></p>
+<ol>
+  <li>Select the sub-dataverse you wish to feature and click the -> to add it to the column on the right</li>
+  <li>Click ‘Save Changes’ when you’ve selected the appropriate sub-dataverse(s)</li>
+</ol>
+<p></p>
+Your sub-dataverse will now appear above the Results section on the landing page of your project dataverse.
+<p></p>
+<img src="https://agooch.github.io/testsite/assets/images/featureddataverse1.png">
+<p></p>
+To remove a Featured Dataverse, simply navigate back to the ‘Featured Dataverses’ option in the Edit menu. At the pop-up select the sub-dataverse in the right column you wish to remove from the Featured Dataverses list then click <- to move it to the left column. Save Changes when you are done. 
