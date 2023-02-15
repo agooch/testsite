@@ -55,7 +55,7 @@ Our FAQ may help you with a few of your more pressing questions. We've broken th
   <p></p>
    The U.S. Office of Science and Technology Policy has released various memos (<a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf" target="_blank">2013</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf" target="_blank">2022</a>) charging federal funding agencies with developing and honing their <a href="https://odum.unc.edu/archive/#archive3" target="_blank">data management and sharing policies</a> for all funded research. In order to comply with these policies, researchers must share the outputs of their research with the public in appropriate data repositories.
   <p></p>
-   In addition to government mandates, research communities are quickly adopting the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable.  These principles offer guidance for ensuring that data are properly preserved, described, and shared for future access and reuse. UNC Dataverse is FAIR compliant.  
+   In addition to government mandates, research communities are quickly adopting the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles</a> for making data Findable, Accessible, Interoperable, and Reusable. These principles offer guidance for ensuring that data are properly preserved, described, and shared for future access and reuse. UNC Dataverse is FAIR compliant.  
 
 </details>
 <p></p>
@@ -83,7 +83,7 @@ If you are not affiliated with UNC and are not an external collaborator, you wil
 <p></p>
 <details>
   <summary><strong>I am an external collaborator/co-PI/partner on a UNC-based research initiative that is using UNC Dataverse to share data. How do I request permission to contribute to a UNC research project dataverse? </strong></summary><br>
-The first step is to create a UNC Dataverse account. If your institution uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you can simply click Login and select your institution from the dropdown menu. If your institution does not use Shibboleth single sign-on, you will need to <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> be created. Requests for a local account may be submitted here [LINK NEEDS TO BE ADDED HERE].  
+The first step is to create a UNC Dataverse account. If your institution uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you can simply click Login and select your institution from the dropdown menu. If your institution does not use Shibboleth single sign-on, you will need to <a href="https://agooch.github.io/testsite/docs/gettingstarted/createaccount.html" target="_blank">request a local account</a> be created. Requests for a local account may be submitted <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">here</a>.  
   <p></p>
   Once you have a UNC Dataverse account, you will need to contact the Admin(s) of the UNC research project dataverse you wish to contribute to. The Admin can assign your UNC Dataverse account a role within the Permissions page of the project dataverse.
 
@@ -119,7 +119,7 @@ To grant permissions to a user, navigate to your project dataverse and click Edi
 <details>
   <summary><strong>Are there any fees for depositing my data into UNC Dataverse?</strong></summary><br>
   
-   Self-archiving in UNC Dataverse is free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a> for all aspects of the archiving process. 
+   Self-archiving in UNC Dataverse is currently free to all users. If you would like additional support in archiving your research data, the Odum Institute Data Archive offers <a href="https://odum.unc.edu/archive/#archive5" target="_blank">UNC Dataverse Support Services</a> for all aspects of the archiving process. 
   <p></p>
    Contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> to schedule a free consultation to learn more about these services and obtain a quote. 
   
@@ -191,14 +191,14 @@ To grant permissions to a user, navigate to your project dataverse and click Edi
   
    UNC Dataverse accepts self-deposit uploads of 2 GB per file. For individual files over 2GB in size, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for assistance or alternative storage solutions.
   <p></p>
-   If your total file size is over 1TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
+   If your total file size is over 2TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
 
 </details>
 <p></p>
 <details>
   <summary><strong>How many files can I upload into UNC Dataverse?</strong></summary><br>
   
-   Currently there is no limit for how many files you may upload into UNC Dataverse; however, if your total file size is more than 1TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
+   Currently there is no limit for how many files you may upload into UNC Dataverse; however, if your total file size is more than 2TB, please contact <a href="mailto:odumarchive@unc.edu">odumarchive@unc.edu</a> for a quote for additional storage or to learn about alternative storage solutions. 
 </details>
 <p></p>
 <details>
