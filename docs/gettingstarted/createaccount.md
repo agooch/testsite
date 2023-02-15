@@ -18,21 +18,21 @@ New UNC Shibboleth and Non-UNC Shibboleth users can create a free UNC Dataverse 
  
  <p></p>
  <strong>Institution Option</strong><br>
- If you are located at a university or institution that uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you may login and create an account using your institutional credentials. Simply search the dropdown menu for your institution’s name. Login with your institution’s credentials and fill in any additional information in the account form provided by Dataverse. Agree to the UNC Dataverse Terms of Use and create your account. Now you can login to UNC Dataverse using your institution’s single sign-on. 
+ If you are located at a university or institution that uses Shibboleth single sign-on as part of the InCommon Federation as a Research and Scholarship entity, you may login and create an account using your institutional credentials. Simply search the drop-down menu for your institution’s name. Login with your institution’s credentials and fill in any additional information in the account form provided by Dataverse. Agree to the UNC Dataverse Terms of Use and create your account. Now you can login to UNC Dataverse using your institution’s single sign-on. 
  <p></p>
 Please see our <a href="https://agooch.github.io/testsite/faqs.html" target="_blank">FAQs</a> for questions about account transfers.
  <p></p>
- If your institution is not represented in the Institution dropdown menu, but you know it uses Shibboleth single sign-on, please contact your university’s identity management team, usually an ITS department and ask that:  
+ If your institution is not represented in the Institution drop-down menu, but you know it uses Shibboleth single sign-on, please contact your university’s identity management team, usually an ITS department and ask that:  
   <ul>
     <li>Your institution offer the "Research and Scholarship Attribute Set" to all Shibboleth service providers</li>
     <li>Or, have your institution share the attribute set with dataverse.unc.edu explicitly</li>
   </ul>
-For new users who do not fall under UNC Shibboleth or Non-UNC Shibboleth, please see our <a href="https://agooch.github.io/testsite/docs/gettingstarted/userpermissions.html" target="_blank">User Permissions Policy<a>.
+For new users who do not fall under <a href="https://agooch.github.io/testsite/docs/gettingstarted/userpermissions.html#UNCShib" target="_blank">UNC Shibboleth</a> or <a href="https://agooch.github.io/testsite/docs/gettingstarted/userpermissions.html#NONUNCShib" target="_blank">Non-UNC Shibboleth</a>, please see our <a href="https://agooch.github.io/testsite/docs/gettingstarted/userpermissions.html" target="_blank">User Permissions Policy<a>.
  <p></p>
  <strong>Local Account Requests</strong><br>
- Users who need to contribute to pre-existing UNC Dataverse project dataverses, but their institution is not part of the InCommon Federation and does not use Shibboleth single sign-on, will need to request a local UNC Dataverse account be created for them. 
+ Users who need to contribute to pre-existing UNC Dataverse project dataverses, but their institution is not part of the InCommon Federation and does not use Shibboleth single sign-on, will need to <a href="https://odumarchive.atlassian.net/servicedesk/customer/portals" target="_blank">request a local UNC Dataverse account</a> be created for them. 
   <p></p>
-Local account requests must be submitted (here) and must include the following information:
+Local account requests must be submitted with the following information:
   <ul>
     <li>First Name</li>
     <li>Last Name</li>
