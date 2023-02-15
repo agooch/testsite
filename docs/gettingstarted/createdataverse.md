@@ -10,15 +10,15 @@ nav_order: 4
   textColor: '#fff'
 })</script>
 
-# Navigation Structure
+# Create a Dataverse
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
-# Create a Dataverse
+# Create a Project Dataverse
 
 If you would like to view a step-by-step walkthrough of creating and customizing a project dataverse, please see our tutorial here.  
 <p></p>
