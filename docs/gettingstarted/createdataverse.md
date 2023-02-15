@@ -2,7 +2,6 @@
 title: Create a Dataverse
 parent: Getting Started
 nav_order: 4
-has_toc: true
 ---
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
@@ -11,6 +10,14 @@ has_toc: true
   textColor: '#fff'
 })</script>
 
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 # Create a Dataverse
 
 If you would like to view a step-by-step walkthrough of creating and customizing a project dataverse, please see our tutorial here.  
