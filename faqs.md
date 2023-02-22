@@ -218,7 +218,7 @@ To grant permissions to a user, navigate to your project dataverse and click Edi
 <details>
   <summary><strong>Can I control access to my data?</strong></summary><br>
   
-   Yes. UNC Dataverse offers access controls to Admin and Curator roles of your Dataset(s). Individual files can be Restricted, and Access Requests can be enabled to permit users to request access to each file through UNC Dataverse. To learn more about Access Restrictions, please see the Access Controls for Data section (link) of the Getting Started (link) guide. 
+   Yes. UNC Dataverse offers access controls to Admin and Curator roles of your Dataset(s). Individual files can be Restricted, and Access Requests can be enabled to permit UNC Dataverse account holders the ability to request access to each file through UNC Dataverse. To learn more about Access Restrictions, please see the Access Controls for Data section (link) of the Getting Started (link) guide. 
 </details>
 <p></p>
 <details>
